@@ -1,27 +1,40 @@
-<br/>
-
-안녕하세요😄  
-
-완벽한  UI 로  유저들의  UX 를  통제해 좋은  경험을  심어주는  것을  목표로  개발하고  있습니다.
-
-<BR/>
-
-My Interests
----
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 
 
+### 👋 Hello!
+Thank you for visiting my profile!
 
-
-My Teckstack
 ---
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React%20Query&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Styled Component-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira Software&logoColor=white">
+### 🚀 Tech Stack by Project Frequency
 
+#### Used in 5 Projects
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
+#### Used in 4 Projects
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
+#### Used in 3 Projects
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+#### Used in 2 Projects
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React%20Query&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/Styled%20Components-A0522D?style=for-the-badge&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+
+#### Used in 1 Project
+<img src="https://img.shields.io/badge/Zustand-8A2BE2?style=for-the-badge&logo=Zustand&logoColor=white"> <img src="https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=Emotion&logoColor=white">
+
+---
+
+### Additional Sections
+
+#### 💬 Let's Connect!
+- Reach me at [wns450@gmail.com](mailto:wns450@gmail.com)
+- LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/%EB%82%99%EC%A4%80-%ED%99%A9-138735265/)
+
+#### 📘 Latest Blog Posts
+- [S.O.L.I.D 원칙 React로 설명하기](https://velog.io/@wns450/S.O.L.I.D-%EC%9B%90%EC%B9%99)
+- [setTimeout 에서 Date.now 리펙토링하기](https://velog.io/@wns450/setTimeout-%EC%97%90%EC%84%9C-Date.now-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0)
+
+---
 
 <br>
 <!--
