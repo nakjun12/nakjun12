@@ -27,7 +27,7 @@ Thank you for visiting my profile!
 ### Additional Sections
 
 #### 💬 Let's Connect!
-- Reach me at [wns450@gmail.com](mailto:wns450@gmail.com)
+- Email: [wns450@gmail.com](mailto:wns450@gmail.com)
 - LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/%EB%82%99%EC%A4%80-%ED%99%A9-138735265/)
 
 #### 📘 Latest Blog Posts
