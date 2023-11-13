@@ -32,7 +32,7 @@ Thank you for visiting my profile!
 
 #### 📘 Latest Blog Posts
 - [S.O.L.I.D 원칙 React로 설명하기](https://velog.io/@wns450/S.O.L.I.D-%EC%9B%90%EC%B9%99)
-- [setTimeout 에서 Date.now 리펙토링하기](https://velog.io/@wns450/setTimeout-%EC%97%90%EC%84%9C-Date.now-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0)
+- [Context API 없는 상태관리 Zustand](https://velog.io/@wns450/Context-API-%EC%97%86%EB%8A%94-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-Zustand)
 
 ---
 
