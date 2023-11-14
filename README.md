@@ -7,7 +7,7 @@ Thank you for visiting my profile!
 
 ### 🚀 Tech Stack by Project Frequency
 
-#### Used in 5 Projects
+#### Used in 6 Projects
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 #### Used in 4 Projects
