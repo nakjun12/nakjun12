@@ -30,10 +30,6 @@ Thank you for visiting my profile!
 - Email: [wns450@gmail.com](mailto:wns450@gmail.com)
 - LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/%EB%82%99%EC%A4%80-%ED%99%A9-138735265/)
 
-#### 📘 Latest Blog Posts
-- [S.O.L.I.D 원칙 React로 설명하기](https://velog.io/@wns450/S.O.L.I.D-%EC%9B%90%EC%B9%99)
-- [Context API 없는 상태관리 Zustand](https://velog.io/@wns450/Context-API-%EC%97%86%EB%8A%94-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-Zustand)
-
 ---
 
 <br>
