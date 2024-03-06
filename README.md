@@ -9,26 +9,6 @@ Recently, I have been studying the testing libraries msw, jest, and cypress.
 
 
 
----
-
-### 🚀 Tech Stack by Project Frequency
-
-#### Used in 6 Projects
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-
-#### Used in 4 Projects
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-#### Used in 3 Projects
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-
-#### Used in 2 Projects
-<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React%20Query&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/Styled%20Components-A0522D?style=for-the-badge&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-
-#### Used in 1 Project
-<img src="https://img.shields.io/badge/Zustand-8A2BE2?style=for-the-badge&logo=Zustand&logoColor=white"> <img src="https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=Emotion&logoColor=white">
-
----
 
 ### Additional Sections
 
