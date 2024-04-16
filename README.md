@@ -5,8 +5,6 @@
 ### 👋 Hello!
 Thank you for visiting my profile!
 
-Recently, I have been studying the testing libraries msw, jest, and cypress.
-
 
 
 
