@@ -5,15 +5,15 @@
 ### 👋 Hello!
 Thank you for visiting my profile!
 
-
-
+### 🚀 Open Source Contributions
+- Facebook/React: [**Fixed bundle type filtering issue**](https://github.com/facebook/react/pull/29906)
+- Toss/Slash: [**Add usePreservedCallback test code**](https://github.com/toss/slash/pull/424)
+- Enactjs/Enact: [**Update preventScroll option in focus**](https://github.com/enactjs/enact/pull/3177) 
 
 ### Additional Sections
-
 #### 💬 Let's Connect!
 - Email: [wns450@gmail.com](mailto:wns450@gmail.com)
 - LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/%EB%82%99%EC%A4%80-%ED%99%A9-138735265/)
-
 ---
 
 <br>
