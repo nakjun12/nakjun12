@@ -6,14 +6,15 @@
 Thank you for visiting my profile!
 
 ### 🚀 Open Source Contributions
-- Facebook/React: [**Fixed bundle type filtering issue**](https://github.com/facebook/react/pull/29906)
-- Toss/Slash: [**Add usePreservedCallback test code**](https://github.com/toss/slash/pull/424)
-- Enactjs/Enact: [**Update preventScroll option in focus**](https://github.com/enactjs/enact/pull/3177) 
+- [**Facebook/React**](https://github.com/facebook/react/pull/29906): Fixed bundle type filtering issue
+- [**Toss/Slash**](https://github.com/toss/slash/pull/424): Add usePreservedCallback test code
+- [**Enactjs/Enact**](https://github.com/enactjs/enact/pull/3177): Update preventScroll option in focus
 
-### Additional Sections
-#### 💬 Let's Connect!
-- Email: [wns450@gmail.com](mailto:wns450@gmail.com)
-- LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/%EB%82%99%EC%A4%80-%ED%99%A9-138735265/)
+### 💬 Let's Connect!
+- [Email](mailto:wns450@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/%EB%82%99%EC%A4%80-%ED%99%A9-138735265/)
+- [Blog](https://velog.io/@wns450/posts)
+  
 ---
 
 <br>
